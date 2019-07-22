@@ -19,7 +19,7 @@ pod 'Swripts'
 
 ## Author
 
-June Albert Alberto, jalberto@procuro.com
+June Albert Alberto, junealbert_alberto@yahoo.com
 
 ## License
 
