@@ -1,8 +1,7 @@
 # Swripts Extensions
-<br/>
 <ul>
   <li>
-    <a href="https://github.com/junealbert/Swripts/blob/master/Swripts/Classes/DateFormatterUtils.swift"><code>DateFormmaterUtils</code></a>
+    <a href="https://github.com/junealbert/Swripts/blob/master/Swripts/Classes/DateFormatterUtils.swift"><code>DateFormaterUtils</code></a>
   </li>
   <li>
     <a href="https://github.com/junealbert/Swripts/blob/master/Swripts/Classes/DateUtils.swift"><code>DateUtils</code></a>
